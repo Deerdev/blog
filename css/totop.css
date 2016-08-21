@@ -1,0 +1,9 @@
+#totop {
+	position: fixed;
+	display: none;
+	z-index: 9999;
+	bottom: 6em;
+	right: 1em;
+	cursor: pointer;
+	opacity:0.1;
+}

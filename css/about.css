@@ -1,0 +1,13 @@
+div .about-title{
+	border-top: 1px solid #eee
+}
+
+div .about-img-div{
+	text-align:center;
+	margin:0px auto;
+	margin-bottom: 50px;
+}
+
+img .about-img{
+	margin:0px auto;
+}
